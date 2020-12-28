@@ -4,4 +4,8 @@ I created this static page so that I can display a playlist I curated that made 
 
 <iframe src="https://open.spotify.com/embed/playlist/7fjFcJ7jxsMeuKLJiDc0Yf" width="650" height="775" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe src="https://trinket.io/embed/python/7ec995118a?showInstructions=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+```markdown
+### Here's a little coding fun. Click the PLAY button, please. :) 
+```
+
+<iframe src="https://trinket.io/embed/python/7ec995118a?showInstructions=true" width="650" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
