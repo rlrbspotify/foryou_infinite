@@ -2,7 +2,7 @@
 
 I created this static page so that I can display a playlist I curated that made me think of someone who makes me smile. I hope it makes them smile. 
 
-<iframe src="https://open.spotify.com/embed/playlist/7fjFcJ7jxsMeuKLJiDc0Yf" width="600" height="500" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/7fjFcJ7jxsMeuKLJiDc0Yf" width="600" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ```markdown
