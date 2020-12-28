@@ -1,4 +1,4 @@
-## Merry Christmas
+# Merry Christmas
 ### I hope you like it :)
 
 I created this static page so that I can display a playlist I curated that made me think of someone who makes me smile. I hope it makes them smile. 
