@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my present for you 2020
 
-You can use the [editor on GitHub](https://github.com/rlrbspotify/foryou_infinite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I created this static page so that I can display a playlist I curated that made me think of someone who makes me smile. I hope it makes them smile. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe src="https://open.spotify.com/embed/playlist/7fjFcJ7jxsMeuKLJiDc0Yf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
